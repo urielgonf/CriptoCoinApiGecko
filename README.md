@@ -15,7 +15,14 @@ Crypto Coin is an Android application designed to monitor and track the informat
 <img src="app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/login.jpg" alt="Screenshot 1" width="200"/>
 <img src="app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/sign.jpg" alt="Screenshot 2" width="200"/>
 </div>
+<div style="display: flex; flex-direction: row; gap: 10px;">
+<img src="app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/main.jpg" alt="Screenshot 1" width="200"/>
+<img src="app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/coinlist.jpg" alt="Screenshot 2" width="200"/>
+<img src="app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/favouriteslist.jpg" alt="Screenshot 1" width="200"/>
+<img src="app/src/main/java/com/myportfolio/portfoliocritocoinapplication/readmeImages/news.jpg" alt="Screenshot 2" width="200"/>
+</div>
 
+</div>
 ## Technologies Used
 - **Android Development**: Kotlin, Jetpack, Android Studio
 - **Firebase**: Firebase Authentication, Firestore
