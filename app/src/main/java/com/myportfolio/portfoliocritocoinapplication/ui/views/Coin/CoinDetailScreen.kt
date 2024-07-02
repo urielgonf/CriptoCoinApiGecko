@@ -283,7 +283,7 @@ fun CoinName(name: String, id: String, thumbImage: String, currentValue: Double,
                         contentDescription = "",
                     )
             }
-            DropDownMenu(expanded = expanded, onDismissRequest = { expanded = false })
+            //DropDownMenu(expanded = expanded, onDismissRequest = { expanded = false })
         }
 
 

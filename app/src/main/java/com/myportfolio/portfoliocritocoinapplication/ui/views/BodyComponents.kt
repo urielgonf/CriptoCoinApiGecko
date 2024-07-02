@@ -172,7 +172,6 @@ fun MainBottomBar(navController: NavController) {
         NavigationItem("Home", Icons.Default.Home, Screens.HomeScreen.route, description = "Home"),
         NavigationItem("List", Icons.AutoMirrored.Filled.List, Screens.CoinListScreen.route, description = "List"),
         NavigationItem("Favourites", Icons.Default.Favorite, Screens.FavoritesScreen.route, description = "Favourites"),
-        NavigationItem("Room", Icons.Default.Favorite, Screens.FavoritesScreenRoom.route, description = "Room"),
         NavigationItem("News", Icons.Default.Newspaper, Screens.NewsScreen.route, description = "News")
     )
     NavigationBar(containerColor = Color(CUSTOM_GREEN_BANNER)) {
@@ -258,7 +257,7 @@ fun DropDownMenu(expanded: Boolean, onDismissRequest: () -> Unit,viewModel: Coin
             DropdownMenuItem(
                 text = { Text(text = item.text, color = Color.White, fontSize = 16.sp) },
                 onClick = {
-                    viewModel.setIntervalMinutes(item.time)
+                    item.time?.let { viewModel.setIntervalMinutes(it) }
                     onDismissRequest()
                     // Ejemplo de acción, como mostrar un Toast
                     Toast.makeText(context, "${item.text} selected", Toast.LENGTH_SHORT).show()
