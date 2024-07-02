@@ -11,7 +11,7 @@ Crypto Coin is an Android application designed to monitor and track the informat
 
 ## Screenshots
 ![Screenshot 1](app/src/main/res/readmeImages/Screenshot_20240702_144304_Coin Gecko.jpg)
-![Screenshot 1](app/src/main/res/readmeImages/Screenshot_20240702_144536_Coin Gecko.jpg)
+![Screenshot 2](app/src/main/res/readmeImages/Screenshot_20240702_144536_Coin Gecko.jpg)
 
 ## Technologies Used
 - **Android Development**: Kotlin, Jetpack, Android Studio
