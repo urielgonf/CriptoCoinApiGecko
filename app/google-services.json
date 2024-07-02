@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "24646318633",
+    "project_id": "portfoliocriptocoinapp",
+    "storage_bucket": "portfoliocriptocoinapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24646318633:android:dc666ad10d50502b827a38",
+        "android_client_info": {
+          "package_name": "com.myportfolio.portfoliocritocoinapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApgOOdEis4p_729BgSSvTHUF4X5z6PVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24646318633:android:6598f11d4493ecee827a38",
+        "android_client_info": {
+          "package_name": "com.myportfolio.portfoliocritocoinapplication.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApgOOdEis4p_729BgSSvTHUF4X5z6PVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
