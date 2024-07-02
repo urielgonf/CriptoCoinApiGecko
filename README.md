@@ -9,6 +9,10 @@ Crypto Coin is an Android application designed to monitor and track the informat
 - **Real-Time Updates**: Utilize Firebase Firestore to receive real-time updates on cryptocurrency prices and market trends.
 - **User-Friendly Interface**: Enjoy a sleek and intuitive interface for seamless navigation and user experience.
 
+## Screenshots
+![Screenshot 1](app/src/main/res/readmeImages/Screenshot_20240702_144304_Coin Gecko.jpg)
+![Screenshot 2](app/src/main/res/readmeImages/Screenshot_20240702_144536_Coin Gecko.jpg)
+
 ## Technologies Used
 - **Android Development**: Kotlin, Jetpack, Android Studio
 - **Firebase**: Firebase Authentication, Firestore
